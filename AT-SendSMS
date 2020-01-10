@@ -5,11 +5,9 @@
 // With SoftwareSerial
 
 // Power the SIM900 with a 12V2A adapter
-// Arduino can draw power via the SIM900 Module
 
 // Follow these connections:
 // Connect the Module GND to Arduino GND
-// Connect the Module 5V to Arduino 5V (VCC)
 // Connect the Module TX to Arduino Pin 7
 // Connect the Module RX to Arduino Pin 8
 
